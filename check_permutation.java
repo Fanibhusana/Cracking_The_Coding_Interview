@@ -21,7 +21,7 @@ public class check_permutation {
 		// TODO Auto-generated method stub
 		check_permutation permutation=new check_permutation();
 		Scanner sc=new Scanner(System.in);
-		System.out.println("Eneter 2 string for checking bort are permutation of eachother or not");
+		System.out.println("Enter 2 string for checking bort are permutation of eachother or not");
 		String s= sc.next();
 		String st= sc.next();
 		s= permutation.sort(s);
