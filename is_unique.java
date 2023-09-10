@@ -26,7 +26,7 @@ public class is_unique {
 		// TODO Auto-generated method stub
 		Scanner sc=new Scanner(System.in);
 		is_unique u=  new is_unique();
-		System.out.println("Eneter the string for checking all character are unique or not");
+		System.out.println("Enter the string for checking all character are unique or not");
 		String string= sc.next();
 		System.out.println("This string conatin unique character :---   "+u.unique(string));
 	}
