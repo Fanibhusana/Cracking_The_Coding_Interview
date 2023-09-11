@@ -1,10 +1,8 @@
 /*
-Implement an algorithm to determine if a string has all unique characters. 
+Q: Implement an algorithm to determine if a string has all unique characters.
 What if you cannot use additional data structures?
 
-
-
-here we take  ASCII  code so we take 128
+Here we take  ASCII  code so we take 128
  */
 
 package cracking_the_coding_interview;
