@@ -1,5 +1,5 @@
-/*
- Given two strings, write a method to decide if one is a permutation of the other.
+ /*
+   Given two strings, write a method to decide if one is a permutation of the other.
  
  God is a permutation of dog.
  */
